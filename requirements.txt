@@ -1,0 +1,6 @@
+numpy
+pandas
+scipy
+xgboost >=1.7.3,<=1.7.5
+sklearn >=0.23.2,<=1.1.3
+catboost  >=1.1.1,<=1.2
