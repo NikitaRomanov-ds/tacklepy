@@ -30,7 +30,7 @@ setup(
   author = 'Nikita Romanov',
   author_email = 'xorvat84@icloud.com',
   url = 'https://github.com/NikitaRomanov-ds/tacklepy',
-  download_url = '  https://github.com/NikitaRomanov-ds/tacklepy/archive/refs/tags/1.0.1.tar.gz',
+  download_url = 'https://github.com/NikitaRomanov-ds/tacklepy/archive/refs/tags/1.0.1.tar.gz',
   keywords = ['impute', 'missing', 'values', 'nan', 'imputation', 'handling'],
   install_requires=dependencies,
   classifiers=[
